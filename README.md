@@ -1,4 +1,4 @@
-# [phpBB | Mixed Content Fixer Extension](https://premiumbb.github.io/httpproxy/)
+# [phpBB | Mixed Content Fixer Extension](https://phpbb.pro/httpproxy/)
 
 Mixed Content Fixer is a premium phpBB extension by Jakub Senko, an [official extensions developer](https://github.com/orgs/phpbb-extensions/teams/extensions-development-team).
 
@@ -19,9 +19,9 @@ Mixed Content Fixer is a premium phpBB extension by Jakub Senko, an [official ex
   <dd>Using LazyLoad for post images extension? Don't worry, you are covered. Another extension that isn't supported? Just contact author.</dd>
 </dl>
 
-## [Buy your license now](https://premiumbb.github.io/httpproxy/)
+## [Buy your license now](https://phpbb.pro/httpproxy/)
 or
-[see detailed information](https://premiumbb.github.io/httpproxy/).
+[see detailed information](https://phpbb.pro/httpproxy/).
 
 <br />
 <br />
